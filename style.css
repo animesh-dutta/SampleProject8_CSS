@@ -1,0 +1,12 @@
+/*
+
+Author: Animesh Dutta
+FileName:style.css
+File Description:Sample CSS file for styling a website.More content will be added in the file later on.
+Created On:Dec 25,2017
+
+*/
+body{
+	background-color: pink;
+}
+h1{text-align:center;color:blue};
